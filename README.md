@@ -1,4 +1,6 @@
 ---
+title: Praxes
 article: false
+icon: hot
 ---
-# praxes
+# Praxes
